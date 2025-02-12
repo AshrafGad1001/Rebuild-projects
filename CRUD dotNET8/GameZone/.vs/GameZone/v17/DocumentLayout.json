@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Migrations\\20250212013939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250212013939_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|d:\\courses\\rebuild projects\\crud dotnet8\\gamezone\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BB78B9-BA58-433C-AA4D-7EC81D946AFF}|GameZone.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "GlobalUsings.cs",
-              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\GlobalUsings.cs",
-              "RelativeToolTip": "GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Title": "20250212013939_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Migrations\\20250212013939_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250212013939_InitialCreate.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Migrations\\20250212013939_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250212013939_InitialCreate.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwFsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T00:57:22.002Z",
+              "WhenOpened": "2025-02-12T01:39:39.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T00:46:35.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T00:41:06.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T00:38:25.715Z",
+              "WhenOpened": "2025-02-12T01:28:09.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:21:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameDevice.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\GameDevice.cs",
+              "RelativeDocumentMoniker": "Models\\GameDevice.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\GameDevice.cs",
+              "RelativeToolTip": "Models\\GameDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:14:21.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:14:21.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:14:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:14:21.097Z",
               "EditorCaption": ""
             }
           ]

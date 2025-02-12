@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5792f49x5n"},{"Name":"integrity","Value":"sha256-EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo="},{"Name":"label","Value":"_content/GameZone/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"418"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 00:15:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"418"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 00:49:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameZone/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"418"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 00:15:19 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"418"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022EWprcN3ek\u002BZYd29zxv1qNFC86JV\u002BkngBdGpKyGMynVo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Feb 2025 00:49:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameZone/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
