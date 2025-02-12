@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\GameZone.draopq3y2h.bundle.scp.css"
     },
     {
+      "Id": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

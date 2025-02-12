@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t6UU3h+MwSD4vgjlNPAgB+6r0MB3nHcOmXjMX82zFDU=",
+  "Hash": "skjQwCwx5h6OUYJmXAPRH7jZm7zAMGFowPGnjU8X108=",
   "Source": "GameZone",
   "BasePath": "_content/GameZone",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66pmh33k7z",
+      "Integrity": "EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
       "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\site.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "5792f49x5n",
+      "Integrity": "EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,8 +1342,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\site.css",
+      "Route": "css/bootstrap.min.66pmh33k7z.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "246730"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Mon, 10 Feb 2025 00:06:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,7 +1374,89 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
+          "Value": "66pmh33k7z"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 00:06:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.5792f49x5n.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 10 Feb 2025 00:15:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5792f49x5n"
         },
         {
           "Name": "label",
@@ -1361,7 +1464,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo="
         }
       ]
     },
@@ -1376,7 +1479,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "418"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1487,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Mon, 10 Feb 2025 00:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1501,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo="
         }
       ]
     },

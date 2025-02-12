@@ -32,3 +32,4 @@ D:\Courses\Rebuild projects\CRUD dotNET8\GameZone\obj\Debug\net8.0\refint\GameZo
 D:\Courses\Rebuild projects\CRUD dotNET8\GameZone\obj\Debug\net8.0\GameZone.pdb
 D:\Courses\Rebuild projects\CRUD dotNET8\GameZone\obj\Debug\net8.0\GameZone.genruntimeconfig.cache
 D:\Courses\Rebuild projects\CRUD dotNET8\GameZone\obj\Debug\net8.0\ref\GameZone.dll
+D:\Courses\Rebuild projects\CRUD dotNET8\GameZone\obj\Debug\net8.0\GameZone.sourcelink.json
