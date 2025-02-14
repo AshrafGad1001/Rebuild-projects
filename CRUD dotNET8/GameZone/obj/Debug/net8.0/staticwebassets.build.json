@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F9ubK37OGRgcLVV2+rgd849Qp+tjz49eO5BzE0K07rI=",
+  "Hash": "uhbgwYGxSk6OuaVytzyJ9of/QDV0CpYe//783HTQqUo=",
   "Source": "GameZone",
   "BasePath": "_content/GameZone",
   "Mode": "Default",
@@ -59,6 +59,657 @@
       "OriginalItemSpec": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\08658624-435d-47df-a8cf-171f0d2d854d.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/08658624-435d-47df-a8cf-171f0d2d854d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asrxrvmn09",
+      "Integrity": "Fv6C40Fp24PpoAG7D2jJP9Xkc2spq1E3h2+uKJiMWLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\08658624-435d-47df-a8cf-171f0d2d854d.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/21c1fc6d-3e07-4ca0-92fe-587ba122f021#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "refmoeuypb",
+      "Integrity": "g2cJPAEu0ZgbmeuBGU6pVcIKfIbxJiycVzlJYQONNh8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/21d06142-30b4-49ef-9eaf-9d5446086be3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y57ay6s1xe",
+      "Integrity": "OoNEGZe/jCnjnBtwJZJq5Zj1rdcteUgMdncy0LseeTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/27bf3d59-cd16-4f18-b294-3243cbd097dd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u4rred26nw",
+      "Integrity": "HoS/yDDxeOtswJSEWeWah8LkCPSpbmEE8zu5DWafaTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\29943e72-a696-46c4-be73-bb016d9b3894.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/29943e72-a696-46c4-be73-bb016d9b3894#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b2r28u0rkr",
+      "Integrity": "fQoBg93bU82TPqBX1k0LwfPbn8Ci+nsdd1PiQcNuuiM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\29943e72-a696-46c4-be73-bb016d9b3894.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ec46grh3nb",
+      "Integrity": "gngkgBiTBOGCkEzi33ck9BAP6TAcR6HxC+QLR4jNNTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/32a89692-836d-46c5-a607-8837561696a7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "du7r8xd3yu",
+      "Integrity": "dRzoiKSQoIwdVcrzJ4IAlLZBHlaX9BEoblyeeDXHv7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/38f5ad77-1c53-4186-9ed1-6f51d4b1b803#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "461sjwp0kd",
+      "Integrity": "FAiQo/AEJJbJ7ZOStYrzHA19FtRsoIg0MMvlWziEyYA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/39600a6d-1bfa-4137-8b83-c6389bc1b2cb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d7ssgltk9t",
+      "Integrity": "ydHsgjMSO+0G5Jh7/JOEMKo6RQxXTHyiKVYShjs/weY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/3d9d16f2-99fa-4fa2-b056-3c3da8d93955#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gr7z1s0bvo",
+      "Integrity": "9JzHSHQMkICTQzpwIaC/C0/tyZ978Z1mSMKoSBXKt/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/466d2ca6-d592-4923-a7de-be318f303cec#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "omdorvxqbb",
+      "Integrity": "AMJJNPtDnjpxrHTJmKQAhfuqWZU3GRQfJta7laHqRQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v2lp6cfgu",
+      "Integrity": "QO39DwKbssvJy+FztnzN6cLTelZhwlkiHorXRodKKqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/5d1ae7f3-f233-47a1-aeb2-ed122ca289d6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9jaw6vgeg",
+      "Integrity": "F2gw0tbG0l4RnTRMzpJxxaciH1qpM0pVzNDSQKqTMZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/62fd3deb-c943-4b15-ab4e-d773b779b763#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhks3eqaww",
+      "Integrity": "uVFMyr9BWY9CoX0cQPMpuVAgfXtWJj0eDUn8Y7FYmHE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/743d11d7-39c9-428e-b3d0-702defe8c6dc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hazhs6emp",
+      "Integrity": "O19d9ETP4KbdWgNiKMqqhz+uml3m9ZmS04n0Wxicz2U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/794f1010-fd86-4870-b3cd-2da00835927c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w1fg0wunso",
+      "Integrity": "zC8oRDqT/J/s0dD3c42H055TCyFxzyq+ehbzGQBYEZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/8486f1cb-94f0-4098-889f-d2302bf0d551#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9grveuu9cf",
+      "Integrity": "ucLorYIT1w4FJ4sS9TxeE1i6cEpBz1ohg/D6dS+rN54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/91e199c0-374e-4117-a849-062a29ba6e2a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0hxo2uxjb5",
+      "Integrity": "jPbMJTZ/oYaYApmc/qTtAVkbNopPiZC7wfTgJUs5auI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/94bda426-5b35-4e80-ada9-2e0888e82427#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vks9h7gx30",
+      "Integrity": "EZowQr7YUTu93HSjUWWM4nWqL/E2wD4kF7U3R+FpswA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/a740f682-e7e7-4ee4-91dc-a39b32621863#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fibh3tv17t",
+      "Integrity": "eQRmafshRem1T2JQdXCeHJnakwUoF9JJ6rP6DA9KU18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/ba4d5bdc-91ac-4b43-a115-a79195825f4e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gknwndmt93",
+      "Integrity": "sFXDhwunOZSy+7I4XkzkIGKP1MYR/MLRSR1C1eUpnj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iibys7ramb",
+      "Integrity": "yrbnEQ0VsExpdbpSRLOUu9mlT5x724udqPNsqXG++bU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/cd11daaf-1a17-489d-966e-21e08f42f83b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "egmzfqx3cx",
+      "Integrity": "krwFFc+t1NSqTbx0N931N0bHV72EXdBL6KRgsO5dzQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/e9b4750e-4faf-47b9-88a3-36cbb307f1af#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rw3wsfzwji",
+      "Integrity": "y0Mmp6JRGM0BG04ExFQHQtNkZE9arrFxkLJ5Lvj8Ksk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/ea88beb2-d416-40e8-be2b-a09a38b814c9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "il8m74kglj",
+      "Integrity": "BgwwWzFbafNv2thMQjYtB6NPtylXfoyK6qhpb+i30kc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "10n58uxqur",
+      "Integrity": "sdON/CYL/5VRIyg3jR26y0IwChwcd1PRW29yo86Kys8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/f0edf202-e4a3-421b-9463-4c979ff71663#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lgh7lmqa7l",
+      "Integrity": "JcFKNsXFy0EP6dOeuWEa+SZhHm5XKHyX/j68bXfIaPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/f3e41324-cb34-4b89-ae00-927b6fcb2749#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s9rue5m8qa",
+      "Integrity": "kEfhYBTq0fJH/7U/koLoky3nSTJoR59VwDy2bCbwrEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f59e1f33-e575-4eda-a9b3-e42adf365309.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/f59e1f33-e575-4eda-a9b3-e42adf365309#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f26aozzp1t",
+      "Integrity": "yc6kTBzKlbKlisVzQFgGmGPNdE1ljAg6a6UWqMJ9qTw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\f59e1f33-e575-4eda-a9b3-e42adf365309.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/fa0b5b50-8675-4434-8519-7ee52e62e464#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "on1vftv8mh",
+      "Integrity": "3PJFSbjCRkbTBbBG599tnQ+KEOxwVlv8YCCOnALMdzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/fbabbd02-3b33-4443-b363-ee7bc6cf9ca2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6vwlq3przb",
+      "Integrity": "XtCN75+0eBDpY9k8kD1EQgZ/Ewa+UE355quRwCJ2ovQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg"
+    },
+    {
       "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
@@ -94,8 +745,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5792f49x5n",
-      "Integrity": "EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=",
+      "Fingerprint": "2dtha0doa7",
+      "Integrity": "5sjscZ5dJls9KYven11J7Ppx1V9UAyMxAJwUz0wj0o8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -115,11 +766,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "v0iry8h0vt",
+      "Integrity": "AdpMieg9z3GkmayT5+CAFrzU8SNcvXf7FwiIh3AtW4k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\filesize-validator.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "js/filesize-validator#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "72t3nkggw0",
+      "Integrity": "IQPWPC0XvQ3ssBNo8xaVkJ6rD0yZCbthsEeTp8bq+Cg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\filesize-validator.js"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\game-form.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "js/game-form#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u1ac02nfo9",
+      "Integrity": "4jV6rjxsnHRxgE1BJPqqXJIt0uLkghg/AdHsKyTEdQA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\game-form.js"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\games-index.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "js/games-index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "77z314vg63",
+      "Integrity": "DQrAJnSMHq2ha1hu1tZNbGLtLtOydGFPXhNf5FwiY1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\games-index.js"
     },
     {
       "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\site.js",
@@ -136,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "w0d0wfrz2j",
+      "Integrity": "EJJ0lj8XSQTFqQvVCgBY8RM/O+xIazG3Loz10G16o+I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1088,6 +1802,111 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho0d1k5s6r",
+      "Integrity": "T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4udlh72t27",
+      "Integrity": "TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "26f9b7qkas",
+      "Integrity": "9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lssqqxhxcq",
+      "Integrity": "ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeyugjpn2t",
+      "Integrity": "R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
       "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
@@ -1338,9 +2157,2635 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/select2/css/select2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntg7hq0exj",
+      "Integrity": "FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/select2/js/select2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2erkrdy46",
+      "Integrity": "AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/sweetalert2/sweetalert2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lljtqz1ndt",
+      "Integrity": "h2Gkn+H33lnKlQTNntQyLXMWq7/9XI2rlPCsLsVcUBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Identity": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "lib/sweetalert2/sweetalert2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yr11drmyh7",
+      "Integrity": "wudFwMR1JGjQqB1yfjc0HTeictLHTfZ6lnUQBBK/mPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert2\\sweetalert2.min.js"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "assets/images/games/08658624-435d-47df-a8cf-171f0d2d854d.asrxrvmn09.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\08658624-435d-47df-a8cf-171f0d2d854d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fv6C40Fp24PpoAG7D2jJP9Xkc2spq1E3h2+uKJiMWLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:19:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asrxrvmn09"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/08658624-435d-47df-a8cf-171f0d2d854d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fv6C40Fp24PpoAG7D2jJP9Xkc2spq1E3h2+uKJiMWLU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/08658624-435d-47df-a8cf-171f0d2d854d.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\08658624-435d-47df-a8cf-171f0d2d854d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fv6C40Fp24PpoAG7D2jJP9Xkc2spq1E3h2+uKJiMWLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:19:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fv6C40Fp24PpoAG7D2jJP9Xkc2spq1E3h2+uKJiMWLU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2cJPAEu0ZgbmeuBGU6pVcIKfIbxJiycVzlJYQONNh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:23:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2cJPAEu0ZgbmeuBGU6pVcIKfIbxJiycVzlJYQONNh8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/21c1fc6d-3e07-4ca0-92fe-587ba122f021.refmoeuypb.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g2cJPAEu0ZgbmeuBGU6pVcIKfIbxJiycVzlJYQONNh8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:23:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "refmoeuypb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/21c1fc6d-3e07-4ca0-92fe-587ba122f021.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g2cJPAEu0ZgbmeuBGU6pVcIKfIbxJiycVzlJYQONNh8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/21d06142-30b4-49ef-9eaf-9d5446086be3.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoNEGZe/jCnjnBtwJZJq5Zj1rdcteUgMdncy0LseeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:38:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoNEGZe/jCnjnBtwJZJq5Zj1rdcteUgMdncy0LseeTY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/21d06142-30b4-49ef-9eaf-9d5446086be3.y57ay6s1xe.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\21d06142-30b4-49ef-9eaf-9d5446086be3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OoNEGZe/jCnjnBtwJZJq5Zj1rdcteUgMdncy0LseeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:38:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y57ay6s1xe"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/21d06142-30b4-49ef-9eaf-9d5446086be3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OoNEGZe/jCnjnBtwJZJq5Zj1rdcteUgMdncy0LseeTY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HoS/yDDxeOtswJSEWeWah8LkCPSpbmEE8zu5DWafaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HoS/yDDxeOtswJSEWeWah8LkCPSpbmEE8zu5DWafaTk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/27bf3d59-cd16-4f18-b294-3243cbd097dd.u4rred26nw.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "396191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HoS/yDDxeOtswJSEWeWah8LkCPSpbmEE8zu5DWafaTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:25:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u4rred26nw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/27bf3d59-cd16-4f18-b294-3243cbd097dd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HoS/yDDxeOtswJSEWeWah8LkCPSpbmEE8zu5DWafaTk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/29943e72-a696-46c4-be73-bb016d9b3894.b2r28u0rkr.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\29943e72-a696-46c4-be73-bb016d9b3894.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQoBg93bU82TPqBX1k0LwfPbn8Ci+nsdd1PiQcNuuiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b2r28u0rkr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/29943e72-a696-46c4-be73-bb016d9b3894.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQoBg93bU82TPqBX1k0LwfPbn8Ci+nsdd1PiQcNuuiM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/29943e72-a696-46c4-be73-bb016d9b3894.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\29943e72-a696-46c4-be73-bb016d9b3894.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9835"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fQoBg93bU82TPqBX1k0LwfPbn8Ci+nsdd1PiQcNuuiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:18:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fQoBg93bU82TPqBX1k0LwfPbn8Ci+nsdd1PiQcNuuiM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.ec46grh3nb.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gngkgBiTBOGCkEzi33ck9BAP6TAcR6HxC+QLR4jNNTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ec46grh3nb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gngkgBiTBOGCkEzi33ck9BAP6TAcR6HxC+QLR4jNNTI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\2c0f3c3a-0a59-40f2-9dcb-a1986d4ec58f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gngkgBiTBOGCkEzi33ck9BAP6TAcR6HxC+QLR4jNNTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gngkgBiTBOGCkEzi33ck9BAP6TAcR6HxC+QLR4jNNTI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/32a89692-836d-46c5-a607-8837561696a7.du7r8xd3yu.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRzoiKSQoIwdVcrzJ4IAlLZBHlaX9BEoblyeeDXHv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "du7r8xd3yu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/32a89692-836d-46c5-a607-8837561696a7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRzoiKSQoIwdVcrzJ4IAlLZBHlaX9BEoblyeeDXHv7k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/32a89692-836d-46c5-a607-8837561696a7.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\32a89692-836d-46c5-a607-8837561696a7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRzoiKSQoIwdVcrzJ4IAlLZBHlaX9BEoblyeeDXHv7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:25:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRzoiKSQoIwdVcrzJ4IAlLZBHlaX9BEoblyeeDXHv7k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/38f5ad77-1c53-4186-9ed1-6f51d4b1b803.461sjwp0kd.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAiQo/AEJJbJ7ZOStYrzHA19FtRsoIg0MMvlWziEyYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:35:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "461sjwp0kd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAiQo/AEJJbJ7ZOStYrzHA19FtRsoIg0MMvlWziEyYA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\38f5ad77-1c53-4186-9ed1-6f51d4b1b803.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAiQo/AEJJbJ7ZOStYrzHA19FtRsoIg0MMvlWziEyYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:35:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAiQo/AEJJbJ7ZOStYrzHA19FtRsoIg0MMvlWziEyYA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/39600a6d-1bfa-4137-8b83-c6389bc1b2cb.d7ssgltk9t.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydHsgjMSO+0G5Jh7/JOEMKo6RQxXTHyiKVYShjs/weY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 01:56:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d7ssgltk9t"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydHsgjMSO+0G5Jh7/JOEMKo6RQxXTHyiKVYShjs/weY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\39600a6d-1bfa-4137-8b83-c6389bc1b2cb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "316955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ydHsgjMSO+0G5Jh7/JOEMKo6RQxXTHyiKVYShjs/weY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 01:56:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ydHsgjMSO+0G5Jh7/JOEMKo6RQxXTHyiKVYShjs/weY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/3d9d16f2-99fa-4fa2-b056-3c3da8d93955.gr7z1s0bvo.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JzHSHQMkICTQzpwIaC/C0/tyZ978Z1mSMKoSBXKt/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:34:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr7z1s0bvo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JzHSHQMkICTQzpwIaC/C0/tyZ978Z1mSMKoSBXKt/k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\3d9d16f2-99fa-4fa2-b056-3c3da8d93955.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JzHSHQMkICTQzpwIaC/C0/tyZ978Z1mSMKoSBXKt/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:34:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JzHSHQMkICTQzpwIaC/C0/tyZ978Z1mSMKoSBXKt/k="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/466d2ca6-d592-4923-a7de-be318f303cec.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AMJJNPtDnjpxrHTJmKQAhfuqWZU3GRQfJta7laHqRQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AMJJNPtDnjpxrHTJmKQAhfuqWZU3GRQfJta7laHqRQs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/466d2ca6-d592-4923-a7de-be318f303cec.omdorvxqbb.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\466d2ca6-d592-4923-a7de-be318f303cec.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AMJJNPtDnjpxrHTJmKQAhfuqWZU3GRQfJta7laHqRQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "omdorvxqbb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/466d2ca6-d592-4923-a7de-be318f303cec.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AMJJNPtDnjpxrHTJmKQAhfuqWZU3GRQfJta7laHqRQs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.4v2lp6cfgu.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO39DwKbssvJy+FztnzN6cLTelZhwlkiHorXRodKKqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v2lp6cfgu"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO39DwKbssvJy+FztnzN6cLTelZhwlkiHorXRodKKqc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\486c9c4c-4d2d-4d3e-bfdd-d19ca5e35e82.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QO39DwKbssvJy+FztnzN6cLTelZhwlkiHorXRodKKqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:28:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QO39DwKbssvJy+FztnzN6cLTelZhwlkiHorXRodKKqc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F2gw0tbG0l4RnTRMzpJxxaciH1qpM0pVzNDSQKqTMZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F2gw0tbG0l4RnTRMzpJxxaciH1qpM0pVzNDSQKqTMZo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.z9jaw6vgeg.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "803479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F2gw0tbG0l4RnTRMzpJxxaciH1qpM0pVzNDSQKqTMZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:21:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9jaw6vgeg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/5d1ae7f3-f233-47a1-aeb2-ed122ca289d6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F2gw0tbG0l4RnTRMzpJxxaciH1qpM0pVzNDSQKqTMZo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/62fd3deb-c943-4b15-ab4e-d773b779b763.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVFMyr9BWY9CoX0cQPMpuVAgfXtWJj0eDUn8Y7FYmHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:32:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVFMyr9BWY9CoX0cQPMpuVAgfXtWJj0eDUn8Y7FYmHE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/62fd3deb-c943-4b15-ab4e-d773b779b763.lhks3eqaww.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\62fd3deb-c943-4b15-ab4e-d773b779b763.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uVFMyr9BWY9CoX0cQPMpuVAgfXtWJj0eDUn8Y7FYmHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:32:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhks3eqaww"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/62fd3deb-c943-4b15-ab4e-d773b779b763.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uVFMyr9BWY9CoX0cQPMpuVAgfXtWJj0eDUn8Y7FYmHE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/743d11d7-39c9-428e-b3d0-702defe8c6dc.1hazhs6emp.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O19d9ETP4KbdWgNiKMqqhz+uml3m9ZmS04n0Wxicz2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hazhs6emp"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O19d9ETP4KbdWgNiKMqqhz+uml3m9ZmS04n0Wxicz2U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\743d11d7-39c9-428e-b3d0-702defe8c6dc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O19d9ETP4KbdWgNiKMqqhz+uml3m9ZmS04n0Wxicz2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O19d9ETP4KbdWgNiKMqqhz+uml3m9ZmS04n0Wxicz2U="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/794f1010-fd86-4870-b3cd-2da00835927c.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "944881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zC8oRDqT/J/s0dD3c42H055TCyFxzyq+ehbzGQBYEZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zC8oRDqT/J/s0dD3c42H055TCyFxzyq+ehbzGQBYEZc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/794f1010-fd86-4870-b3cd-2da00835927c.w1fg0wunso.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\794f1010-fd86-4870-b3cd-2da00835927c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "944881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zC8oRDqT/J/s0dD3c42H055TCyFxzyq+ehbzGQBYEZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w1fg0wunso"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/794f1010-fd86-4870-b3cd-2da00835927c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zC8oRDqT/J/s0dD3c42H055TCyFxzyq+ehbzGQBYEZc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/8486f1cb-94f0-4098-889f-d2302bf0d551.9grveuu9cf.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucLorYIT1w4FJ4sS9TxeE1i6cEpBz1ohg/D6dS+rN54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9grveuu9cf"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/8486f1cb-94f0-4098-889f-d2302bf0d551.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ucLorYIT1w4FJ4sS9TxeE1i6cEpBz1ohg/D6dS+rN54="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/8486f1cb-94f0-4098-889f-d2302bf0d551.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\8486f1cb-94f0-4098-889f-d2302bf0d551.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ucLorYIT1w4FJ4sS9TxeE1i6cEpBz1ohg/D6dS+rN54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ucLorYIT1w4FJ4sS9TxeE1i6cEpBz1ohg/D6dS+rN54="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/91e199c0-374e-4117-a849-062a29ba6e2a.0hxo2uxjb5.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jPbMJTZ/oYaYApmc/qTtAVkbNopPiZC7wfTgJUs5auI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hxo2uxjb5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/91e199c0-374e-4117-a849-062a29ba6e2a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jPbMJTZ/oYaYApmc/qTtAVkbNopPiZC7wfTgJUs5auI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/91e199c0-374e-4117-a849-062a29ba6e2a.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\91e199c0-374e-4117-a849-062a29ba6e2a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jPbMJTZ/oYaYApmc/qTtAVkbNopPiZC7wfTgJUs5auI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jPbMJTZ/oYaYApmc/qTtAVkbNopPiZC7wfTgJUs5auI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/94bda426-5b35-4e80-ada9-2e0888e82427.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EZowQr7YUTu93HSjUWWM4nWqL/E2wD4kF7U3R+FpswA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EZowQr7YUTu93HSjUWWM4nWqL/E2wD4kF7U3R+FpswA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/94bda426-5b35-4e80-ada9-2e0888e82427.vks9h7gx30.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\94bda426-5b35-4e80-ada9-2e0888e82427.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56874"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EZowQr7YUTu93HSjUWWM4nWqL/E2wD4kF7U3R+FpswA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:27:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vks9h7gx30"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/94bda426-5b35-4e80-ada9-2e0888e82427.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EZowQr7YUTu93HSjUWWM4nWqL/E2wD4kF7U3R+FpswA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/a740f682-e7e7-4ee4-91dc-a39b32621863.fibh3tv17t.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "479165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQRmafshRem1T2JQdXCeHJnakwUoF9JJ6rP6DA9KU18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:40:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fibh3tv17t"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/a740f682-e7e7-4ee4-91dc-a39b32621863.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQRmafshRem1T2JQdXCeHJnakwUoF9JJ6rP6DA9KU18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/a740f682-e7e7-4ee4-91dc-a39b32621863.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\a740f682-e7e7-4ee4-91dc-a39b32621863.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "479165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eQRmafshRem1T2JQdXCeHJnakwUoF9JJ6rP6DA9KU18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:40:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eQRmafshRem1T2JQdXCeHJnakwUoF9JJ6rP6DA9KU18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ba4d5bdc-91ac-4b43-a115-a79195825f4e.gknwndmt93.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sFXDhwunOZSy+7I4XkzkIGKP1MYR/MLRSR1C1eUpnj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gknwndmt93"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFXDhwunOZSy+7I4XkzkIGKP1MYR/MLRSR1C1eUpnj0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ba4d5bdc-91ac-4b43-a115-a79195825f4e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sFXDhwunOZSy+7I4XkzkIGKP1MYR/MLRSR1C1eUpnj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sFXDhwunOZSy+7I4XkzkIGKP1MYR/MLRSR1C1eUpnj0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.iibys7ramb.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yrbnEQ0VsExpdbpSRLOUu9mlT5x724udqPNsqXG++bU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iibys7ramb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yrbnEQ0VsExpdbpSRLOUu9mlT5x724udqPNsqXG++bU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\c2b4dc65-4fa8-4372-b1eb-ffc1fecdea03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "439050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yrbnEQ0VsExpdbpSRLOUu9mlT5x724udqPNsqXG++bU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:39:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yrbnEQ0VsExpdbpSRLOUu9mlT5x724udqPNsqXG++bU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/cd11daaf-1a17-489d-966e-21e08f42f83b.egmzfqx3cx.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krwFFc+t1NSqTbx0N931N0bHV72EXdBL6KRgsO5dzQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:41:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egmzfqx3cx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/cd11daaf-1a17-489d-966e-21e08f42f83b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-krwFFc+t1NSqTbx0N931N0bHV72EXdBL6KRgsO5dzQ0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/cd11daaf-1a17-489d-966e-21e08f42f83b.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\cd11daaf-1a17-489d-966e-21e08f42f83b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krwFFc+t1NSqTbx0N931N0bHV72EXdBL6KRgsO5dzQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:41:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-krwFFc+t1NSqTbx0N931N0bHV72EXdBL6KRgsO5dzQ0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y0Mmp6JRGM0BG04ExFQHQtNkZE9arrFxkLJ5Lvj8Ksk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y0Mmp6JRGM0BG04ExFQHQtNkZE9arrFxkLJ5Lvj8Ksk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/e9b4750e-4faf-47b9-88a3-36cbb307f1af.rw3wsfzwji.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y0Mmp6JRGM0BG04ExFQHQtNkZE9arrFxkLJ5Lvj8Ksk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:18:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw3wsfzwji"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/e9b4750e-4faf-47b9-88a3-36cbb307f1af.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y0Mmp6JRGM0BG04ExFQHQtNkZE9arrFxkLJ5Lvj8Ksk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ea88beb2-d416-40e8-be2b-a09a38b814c9.il8m74kglj.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgwwWzFbafNv2thMQjYtB6NPtylXfoyK6qhpb+i30kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "il8m74kglj"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgwwWzFbafNv2thMQjYtB6NPtylXfoyK6qhpb+i30kc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ea88beb2-d416-40e8-be2b-a09a38b814c9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "210740"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgwwWzFbafNv2thMQjYtB6NPtylXfoyK6qhpb+i30kc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgwwWzFbafNv2thMQjYtB6NPtylXfoyK6qhpb+i30kc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.10n58uxqur.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdON/CYL/5VRIyg3jR26y0IwChwcd1PRW29yo86Kys8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "10n58uxqur"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdON/CYL/5VRIyg3jR26y0IwChwcd1PRW29yo86Kys8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\ed0b0cbc-10b1-4ab4-9997-f3e02fc4a449.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdON/CYL/5VRIyg3jR26y0IwChwcd1PRW29yo86Kys8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:23:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdON/CYL/5VRIyg3jR26y0IwChwcd1PRW29yo86Kys8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f0edf202-e4a3-421b-9463-4c979ff71663.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcFKNsXFy0EP6dOeuWEa+SZhHm5XKHyX/j68bXfIaPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcFKNsXFy0EP6dOeuWEa+SZhHm5XKHyX/j68bXfIaPM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f0edf202-e4a3-421b-9463-4c979ff71663.lgh7lmqa7l.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f0edf202-e4a3-421b-9463-4c979ff71663.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcFKNsXFy0EP6dOeuWEa+SZhHm5XKHyX/j68bXfIaPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgh7lmqa7l"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/f0edf202-e4a3-421b-9463-4c979ff71663.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcFKNsXFy0EP6dOeuWEa+SZhHm5XKHyX/j68bXfIaPM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f3e41324-cb34-4b89-ae00-927b6fcb2749.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kEfhYBTq0fJH/7U/koLoky3nSTJoR59VwDy2bCbwrEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Mar 2024 06:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kEfhYBTq0fJH/7U/koLoky3nSTJoR59VwDy2bCbwrEk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f3e41324-cb34-4b89-ae00-927b6fcb2749.s9rue5m8qa.png",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f3e41324-cb34-4b89-ae00-927b6fcb2749.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kEfhYBTq0fJH/7U/koLoky3nSTJoR59VwDy2bCbwrEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Mar 2024 06:25:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9rue5m8qa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/f3e41324-cb34-4b89-ae00-927b6fcb2749.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kEfhYBTq0fJH/7U/koLoky3nSTJoR59VwDy2bCbwrEk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f59e1f33-e575-4eda-a9b3-e42adf365309.f26aozzp1t.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f59e1f33-e575-4eda-a9b3-e42adf365309.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yc6kTBzKlbKlisVzQFgGmGPNdE1ljAg6a6UWqMJ9qTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f26aozzp1t"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/f59e1f33-e575-4eda-a9b3-e42adf365309.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yc6kTBzKlbKlisVzQFgGmGPNdE1ljAg6a6UWqMJ9qTw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/f59e1f33-e575-4eda-a9b3-e42adf365309.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\f59e1f33-e575-4eda-a9b3-e42adf365309.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yc6kTBzKlbKlisVzQFgGmGPNdE1ljAg6a6UWqMJ9qTw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:16:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yc6kTBzKlbKlisVzQFgGmGPNdE1ljAg6a6UWqMJ9qTw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/fa0b5b50-8675-4434-8519-7ee52e62e464.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3PJFSbjCRkbTBbBG599tnQ+KEOxwVlv8YCCOnALMdzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:33:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3PJFSbjCRkbTBbBG599tnQ+KEOxwVlv8YCCOnALMdzE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/fa0b5b50-8675-4434-8519-7ee52e62e464.on1vftv8mh.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fa0b5b50-8675-4434-8519-7ee52e62e464.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3PJFSbjCRkbTBbBG599tnQ+KEOxwVlv8YCCOnALMdzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:33:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "on1vftv8mh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/fa0b5b50-8675-4434-8519-7ee52e62e464.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3PJFSbjCRkbTBbBG599tnQ+KEOxwVlv8YCCOnALMdzE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.6vwlq3przb.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtCN75+0eBDpY9k8kD1EQgZ/Ewa+UE355quRwCJ2ovQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6vwlq3przb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/games/fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtCN75+0eBDpY9k8kD1EQgZ/Ewa+UE355quRwCJ2ovQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/games/fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\assets\\images\\games\\fbabbd02-3b33-4443-b363-ee7bc6cf9ca2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtCN75+0eBDpY9k8kD1EQgZ/Ewa+UE355quRwCJ2ovQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 11:35:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtCN75+0eBDpY9k8kD1EQgZ/Ewa+UE355quRwCJ2ovQ="
+        }
+      ]
+    },
     {
       "Route": "css/bootstrap.min.66pmh33k7z.css",
       "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\bootstrap.min.css",
@@ -1364,7 +4809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 00:06:31 GMT"
+          "Value": "Tue, 26 Mar 2024 14:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1409,7 +4854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 00:06:31 GMT"
+          "Value": "Tue, 26 Mar 2024 14:38:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1424,7 +4869,7 @@
       ]
     },
     {
-      "Route": "css/site.5792f49x5n.css",
+      "Route": "css/site.2dtha0doa7.css",
       "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1434,7 +4879,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "3486"
         },
         {
           "Name": "Content-Type",
@@ -1442,11 +4887,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=\""
+          "Value": "\"5sjscZ5dJls9KYven11J7Ppx1V9UAyMxAJwUz0wj0o8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 00:49:02 GMT"
+          "Value": "Sat, 30 Mar 2024 06:53:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1456,7 +4901,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5792f49x5n"
+          "Value": "2dtha0doa7"
         },
         {
           "Name": "label",
@@ -1464,7 +4909,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo="
+          "Value": "sha256-5sjscZ5dJls9KYven11J7Ppx1V9UAyMxAJwUz0wj0o8="
         }
       ]
     },
@@ -1479,7 +4924,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "3486"
         },
         {
           "Name": "Content-Type",
@@ -1487,11 +4932,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo=\""
+          "Value": "\"5sjscZ5dJls9KYven11J7Ppx1V9UAyMxAJwUz0wj0o8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Feb 2025 00:49:02 GMT"
+          "Value": "Sat, 30 Mar 2024 06:53:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1501,52 +4946,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EWprcN3ek+ZYd29zxv1qNFC86JV+kngBdGpKyGMynVo="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-5sjscZ5dJls9KYven11J7Ppx1V9UAyMxAJwUz0wj0o8="
         }
       ]
     },
@@ -1561,7 +4961,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "19648"
         },
         {
           "Name": "Content-Type",
@@ -1569,11 +4969,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"AdpMieg9z3GkmayT5+CAFrzU8SNcvXf7FwiIh3AtW4k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Thu, 21 Sep 2023 21:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1583,7 +4983,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-AdpMieg9z3GkmayT5+CAFrzU8SNcvXf7FwiIh3AtW4k="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.v0iry8h0vt.ico",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AdpMieg9z3GkmayT5+CAFrzU8SNcvXf7FwiIh3AtW4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 21 Sep 2023 21:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0iry8h0vt"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AdpMieg9z3GkmayT5+CAFrzU8SNcvXf7FwiIh3AtW4k="
         }
       ]
     },
@@ -1610,7 +5055,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:41 GMT"
+          "Value": "Tue, 26 Mar 2024 14:34:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1647,7 +5092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:41 GMT"
+          "Value": "Tue, 26 Mar 2024 14:34:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1692,7 +5137,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:41 GMT"
+          "Value": "Tue, 26 Mar 2024 14:34:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1737,7 +5182,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:41 GMT"
+          "Value": "Tue, 26 Mar 2024 14:34:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1752,6 +5197,252 @@
       ]
     },
     {
+      "Route": "js/filesize-validator.72t3nkggw0.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\filesize-validator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQPWPC0XvQ3ssBNo8xaVkJ6rD0yZCbthsEeTp8bq+Cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 09:30:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72t3nkggw0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/filesize-validator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQPWPC0XvQ3ssBNo8xaVkJ6rD0yZCbthsEeTp8bq+Cg="
+        }
+      ]
+    },
+    {
+      "Route": "js/filesize-validator.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\filesize-validator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IQPWPC0XvQ3ssBNo8xaVkJ6rD0yZCbthsEeTp8bq+Cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 09:30:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IQPWPC0XvQ3ssBNo8xaVkJ6rD0yZCbthsEeTp8bq+Cg="
+        }
+      ]
+    },
+    {
+      "Route": "js/game-form.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\game-form.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jV6rjxsnHRxgE1BJPqqXJIt0uLkghg/AdHsKyTEdQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 09:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jV6rjxsnHRxgE1BJPqqXJIt0uLkghg/AdHsKyTEdQA="
+        }
+      ]
+    },
+    {
+      "Route": "js/game-form.u1ac02nfo9.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\game-form.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4jV6rjxsnHRxgE1BJPqqXJIt0uLkghg/AdHsKyTEdQA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Mar 2024 09:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1ac02nfo9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/game-form.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4jV6rjxsnHRxgE1BJPqqXJIt0uLkghg/AdHsKyTEdQA="
+        }
+      ]
+    },
+    {
+      "Route": "js/games-index.77z314vg63.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\games-index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQrAJnSMHq2ha1hu1tZNbGLtLtOydGFPXhNf5FwiY1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:00:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77z314vg63"
+        },
+        {
+          "Name": "label",
+          "Value": "js/games-index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQrAJnSMHq2ha1hu1tZNbGLtLtOydGFPXhNf5FwiY1w="
+        }
+      ]
+    },
+    {
+      "Route": "js/games-index.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\games-index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQrAJnSMHq2ha1hu1tZNbGLtLtOydGFPXhNf5FwiY1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 07:00:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQrAJnSMHq2ha1hu1tZNbGLtLtOydGFPXhNf5FwiY1w="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1762,7 +5453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "125"
         },
         {
           "Name": "Content-Type",
@@ -1770,11 +5461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"EJJ0lj8XSQTFqQvVCgBY8RM/O+xIazG3Loz10G16o+I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Thu, 28 Mar 2024 09:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1784,12 +5475,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-EJJ0lj8XSQTFqQvVCgBY8RM/O+xIazG3Loz10G16o+I="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.w0d0wfrz2j.js",
       "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1799,7 +5490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "125"
         },
         {
           "Name": "Content-Type",
@@ -1807,11 +5498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"EJJ0lj8XSQTFqQvVCgBY8RM/O+xIazG3Loz10G16o+I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Thu, 28 Mar 2024 09:49:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1821,7 +5512,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "w0d0wfrz2j"
         },
         {
           "Name": "label",
@@ -1829,7 +5520,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-EJJ0lj8XSQTFqQvVCgBY8RM/O+xIazG3Loz10G16o+I="
         }
       ]
     },
@@ -1856,7 +5547,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1893,7 +5584,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1938,7 +5629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1975,7 +5666,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2020,7 +5711,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2057,7 +5748,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2102,7 +5793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2139,7 +5830,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2184,7 +5875,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2221,7 +5912,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2266,7 +5957,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2303,7 +5994,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2348,7 +6039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2385,7 +6076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2430,7 +6121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2467,7 +6158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2512,7 +6203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2557,7 +6248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2594,7 +6285,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2631,7 +6322,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2676,7 +6367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2713,7 +6404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2758,7 +6449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2795,7 +6486,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2840,7 +6531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2877,7 +6568,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2922,7 +6613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2959,7 +6650,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2996,7 +6687,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3033,7 +6724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3078,7 +6769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3123,7 +6814,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3168,7 +6859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3213,7 +6904,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3250,7 +6941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3295,7 +6986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3332,7 +7023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3369,7 +7060,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3406,7 +7097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3451,7 +7142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3496,7 +7187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3541,7 +7232,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3578,7 +7269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3623,7 +7314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3660,7 +7351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3697,7 +7388,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3734,7 +7425,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3779,7 +7470,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3824,7 +7515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3861,7 +7552,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3906,7 +7597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3943,7 +7634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3988,7 +7679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4025,7 +7716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4062,7 +7753,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4107,7 +7798,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4152,7 +7843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4189,7 +7880,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4234,7 +7925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4271,7 +7962,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4308,7 +7999,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4353,7 +8044,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4390,7 +8081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4435,7 +8126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4480,7 +8171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4517,7 +8208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4562,7 +8253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4599,7 +8290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4644,7 +8335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4689,7 +8380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4726,7 +8417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4771,7 +8462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4808,7 +8499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4845,7 +8536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4890,7 +8581,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4927,7 +8618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4972,7 +8663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5009,7 +8700,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5046,7 +8737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5091,7 +8782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5136,7 +8827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5173,7 +8864,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5218,7 +8909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5255,7 +8946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5292,7 +8983,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5329,7 +9020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5374,7 +9065,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5419,7 +9110,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5464,7 +9155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5501,7 +9192,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5520,6 +9211,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.4udlh72t27.json",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4udlh72t27"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.ho0d1k5s6r.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho0d1k5s6r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.json",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.min.26f9b7qkas.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "26f9b7qkas"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.min.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.lssqqxhxcq.woff",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lssqqxhxcq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff2",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.xeyugjpn2t.woff2",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Mar 2024 23:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xeyugjpn2t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
         }
       ]
     },
@@ -5546,7 +9647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5591,7 +9692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5628,7 +9729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5673,7 +9774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5718,7 +9819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5755,7 +9856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5792,7 +9893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5837,7 +9938,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5874,7 +9975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5919,7 +10020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5956,7 +10057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6001,7 +10102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6038,7 +10139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6075,7 +10176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6120,7 +10221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6157,7 +10258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6202,7 +10303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6239,7 +10340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6284,7 +10385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6329,7 +10430,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6366,7 +10467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6411,7 +10512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6448,7 +10549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6493,7 +10594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Feb 2025 23:58:11 GMT"
+          "Value": "Tue, 26 Mar 2024 14:10:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6504,6 +10605,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/css/select2.min.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/css/select2.min.ntg7hq0exj.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntg7hq0exj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/select2/css/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/js/select2.min.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/js/select2.min.o2erkrdy46.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2erkrdy46"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/select2/js/select2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert2/sweetalert2.min.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2Gkn+H33lnKlQTNntQyLXMWq7/9XI2rlPCsLsVcUBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Gkn+H33lnKlQTNntQyLXMWq7/9XI2rlPCsLsVcUBs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert2/sweetalert2.min.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wudFwMR1JGjQqB1yfjc0HTeictLHTfZ6lnUQBBK/mPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wudFwMR1JGjQqB1yfjc0HTeictLHTfZ6lnUQBBK/mPo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert2/sweetalert2.min.lljtqz1ndt.css",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h2Gkn+H33lnKlQTNntQyLXMWq7/9XI2rlPCsLsVcUBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lljtqz1ndt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/sweetalert2/sweetalert2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h2Gkn+H33lnKlQTNntQyLXMWq7/9XI2rlPCsLsVcUBs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert2/sweetalert2.min.yr11drmyh7.js",
+      "AssetFile": "D:\\Courses\\Rebuild projects\\CRUD dotNET8\\GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wudFwMR1JGjQqB1yfjc0HTeictLHTfZ6lnUQBBK/mPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Mar 2024 06:46:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yr11drmyh7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/sweetalert2/sweetalert2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wudFwMR1JGjQqB1yfjc0HTeictLHTfZ6lnUQBBK/mPo="
         }
       ]
     }

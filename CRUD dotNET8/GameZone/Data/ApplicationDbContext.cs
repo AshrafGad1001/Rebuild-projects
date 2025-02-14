@@ -1,6 +1,6 @@
-﻿
-namespace GameZone.Data
+﻿using GameZone.Models;
 
+namespace GameZone.Data
 {
     public class ApplicationDbContext : DbContext
     {
@@ -8,20 +8,12 @@ namespace GameZone.Data
         {
 
         }
-
-
         public DbSet<Game> Games { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Device> Devices { get; set; }
         public DbSet<GameDevice> GameDevices { get; set; }
-
-
-
-
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
             modelBuilder.Entity<Category>().HasData(new Category[]
             {
                 new Category{ Id = 1,Name="Sports"},
@@ -38,7 +30,6 @@ namespace GameZone.Data
                 new Device{Id =3,Name="Nintento Switch",Icon="bi bi-nintendo"},
                 new Device{Id =4,Name="PC",Icon="bi bi-pc-display"}
             });
-
 
             modelBuilder.Entity<GameDevice>()
                 .HasKey(e => new { e.GameId, e.DeviceId });
